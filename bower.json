@@ -1,5 +1,5 @@
 {
-  "name": "interactjs",
+  "name": "interact.js",
   "main": "index.js",
   "description": "Drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+)",
   "homepage": "http://interactjs.io",
